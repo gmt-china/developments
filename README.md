@@ -5,13 +5,15 @@
 - 2016-03-20: [@seisman][seisman] 将DNS服务器转向 [DNSPod][DNSPod] ，并设置A记录指向GitHub
 - 2016-03-21: [@seisman][seisman] 建立 [GMT_Docs][https://github.com/gmt-china/GMT_Docs] ，指向域名 `docs.gmt-china.org`
 - 2016-03-24: [@seisman][seisman] 完成了GMT参考手册的整理工作
+- 2015-03-24: [@seisman][seisman] 完成了GMT模块手册的整理工作
 
 ## 尚未完成的任务
 
 - [ ] 建立社区主页
-- [ ] 为参考手册找到合适的模板
-- [ ] 整理模块手册
-- [ ] 整理示例手册
+- [ ] 优化参考手册的模板
+- [ ] 优化模块手册的模板
+- [ ] 解决模块手册的布局问题，生成PDF
+- [ ] 整理示例
 - [ ] 整理GMT英文文档
 - [ ] 建立GMT问答社区
 
