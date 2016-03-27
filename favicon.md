@@ -4,6 +4,7 @@ favicon是浏览器中显示网站所用的图标。在不同浏览器以及不�
 
 社区图标使用 http://iconifier.net/ 制作完成。
 
+网页模板如下
 ~~~html
 <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.ico" type="image/x-icon" type="image/png" />
 {# Opera Speed Dial Icon #}
@@ -33,3 +34,4 @@ favicon是浏览器中显示网站所用的图标。在不同浏览器以及不�
 3. https://www.w3.org/2005/10/howto-favicon
 4. http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
 5. https://blogs.msdn.microsoft.com/ie/2012/06/08/high-quality-visuals-for-pinned-sites-in-windows-8/
+6. https://github.com/operasoftware/devopera-static-backup/blob/master/http/dev.opera.com/articles/view/opera-speed-dial-enhancements/index.html
