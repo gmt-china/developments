@@ -43,3 +43,21 @@ modules  CNAME  gmt-china.github.io
 examples  CNAME  gmt-china.github.io
 ~~~
 然后在 `GMT_examples` 项目的 `gh-pages` 分支中加入CNAME文件，其内容为 `examples.gmt-china.org`
+
+## 问答社区
+
+问答社区目前托管在SAE上，修改DNS如下
+
+~~~
+forum.gmt-china.org  CNAME  jp.cname.saebbs.com
+862013e0ba.gmt-china.org  A   206.231.213.167
+~~~
+
+## 邮箱
+
+使用腾讯企业邮建立邮箱，修改DNS如下：
+
+~~~
+@  MX   mxbiz1.qq.com  5
+@  MX   mxbiz2.qq.com  10
+~~~

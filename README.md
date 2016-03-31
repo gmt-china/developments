@@ -7,6 +7,8 @@
 - 2016-03-24: [@seisman][seisman] 完成了GMT参考手册的整理工作，域名为 `http://docs.gmt-china.org`
 - 2016-03-24: [@seisman][seisman] 完成了GMT模块手册的整理工作，域名为 `http://modules.gmt-china.org`
 - 2016-03-26: [@seisman][seisman] 完成了GM示例合集的整理工作，域名为 `http://examples.gmt-china.org`
+- 2016-03-31: [@seisman][seisman] 建立GMT问答社区
+- 2016-03-31: [@seisman][seisman] 利用腾讯企业邮箱建立域名邮箱，管理员账号为 admin@gmt-china.org
 
 ## 文件列表
 
