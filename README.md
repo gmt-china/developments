@@ -14,9 +14,6 @@
 
 - `REAMDE.md` 本文件
 - `DNS.md` 记录DNS解析的相关设置
-- `favicon.md` 记录favicon的解释与参考
-- `favicon.zip` 整个社区统一使用的favicon
-- `GMT_logo.sh` 社区LOGO的生成脚本
 - `domain-receipt.png` 域名收据的截图
 
 
