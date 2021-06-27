@@ -15,13 +15,6 @@
 - 2018-02-18: [@seisman][seisman] 给域名续费五年，价格 ￥675.70
 - 2019-01-27: [@seisman][seisman] 将模块手册和示例整理到中文手册中，废弃 modules 和 examples 子域名
 
-## 文件列表
-
-- `REAMDE.md` 本文件
-- `DNS.md` 记录DNS解析的相关设置
-- `domain-receipt.png` 域名收据的截图
-
-
 [seisman]: http://github.com/seisman
 [GoDaddy]: https://www.godaddy.com
 [DNSPod]: https://www.dnspod.cn
