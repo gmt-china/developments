@@ -1,3 +1,5 @@
+# GMT 中文社区维护指南
+
 ## 社区发展时间线
 
 - 2016-03-20: [@seisman][seisman] 建立组织 [@gmt-china](https://github.com/gmt-china)，建立 [gmt-china.github.io](http://gmt-china.github.io) 作为社区主页
@@ -9,6 +11,9 @@
 - 2016-03-31: [@seisman][seisman] 建立 GMT 问答社区
 - 2016-03-31: [@seisman][seisman] 利用腾讯企业邮箱建立域名邮箱，管理员账号为 admin@gmt-china.org
 - 2016-06-13: [@seisman][seisman] 关闭 GMT 问答社区
+- 2017-03-10: [@seisman][seisman] 给域名续费一年，价格 ￥135.14
+- 2018-02-18: [@seisman][seisman] 给域名续费五年，价格 ￥675.70
+- 2019-01-27: [@seisman][seisman] 将模块手册和示例整理到中文手册中，废弃 modules 和 examples 子域名
 
 ## 文件列表
 
