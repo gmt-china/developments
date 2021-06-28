@@ -65,8 +65,7 @@ DNS 记录如下图所示:
 
 ## 邮箱账户
 
-中文社区目前使用[腾讯企业邮](https://exmail.qq.com/)创建了专属邮箱账户：
-`admin@gmt-china.org`，账户所有者 [@seisman][seisman]。
+中文社区目前使用[腾讯企业邮](https://exmail.qq.com/)创建了专属邮箱账户 admin@gmt-china.org，账户所有者 [@seisman][seisman]。
 
 [seisman]: http://github.com/seisman
 [core-man]: http://github.com/core-man
