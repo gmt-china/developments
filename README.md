@@ -11,7 +11,9 @@
 
 ## 域名信息
 
-- 所有者：[@seisman][seisman]
+- 所有者：
+  - [@seisman][seisman]
+  - [@core-man][core-man] (已共享账户，可使用身份验证器登录，有完整权限)
 - 有效期：2023-03-20
 - 购买自：[GoDaddy][GoDaddy]
 
@@ -67,5 +69,6 @@ DNS 记录如下图所示:
 `admin@gmt-china.org`，账户所有者 [@seisman][seisman]。
 
 [seisman]: http://github.com/seisman
+[core-man]: http://github.com/core-man
 [GoDaddy]: https://www.godaddy.com
 [DNSPod]: https://www.dnspod.cn
