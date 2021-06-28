@@ -44,3 +44,4 @@ DNS 使用[腾讯云](https://cloud.tencent.com/)进行解析。
 
 [seisman]: http://github.com/seisman
 [GoDaddy]: https://www.godaddy.com
+[DNSPod]: https://www.dnspod.cn
