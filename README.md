@@ -8,6 +8,10 @@
 - 英文名：GMT China Community
 - 主页：https://gmt-china.org
 - GitHub 组织：https://github.com/gmt-china
+  - [所有者](https://github.com/orgs/gmt-china/people?query=role%3Aowner)：
+    - [@core-man](https://github.com/core-man)
+    - [@seisman](https://github.com/seisman)
+    - [@wangliang1989](https://github.com/orgs/gmt-china/people/wangliang1989)
 
 ## 域名信息
 
