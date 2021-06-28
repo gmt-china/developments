@@ -4,7 +4,8 @@
 
 ## 基本信息
 
-- 网站名：GMT 中文社区
+- 中文名：GMT 中文社区
+- 英文名：GMT China Community
 - 主页：https://gmt-china.org
 - GitHub 组织：https://github.com/gmt-china
 
@@ -12,6 +13,7 @@
 
 - 所有者：[@seisman][seisman]
 - 有效期：2023-03-20
+- 购买自：https://www.godaddy.com/
 
 ## 社区发展时间线
 
