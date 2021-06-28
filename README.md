@@ -7,23 +7,12 @@
 - 中文名：GMT 中文社区
 - 英文名：GMT China Community
 - 主页：https://gmt-china.org
-- GitHub 组织：https://github.com/gmt-china
-  - [所有者](https://github.com/orgs/gmt-china/people?query=role%3Aowner)：
-    - [@core-man](https://github.com/core-man)
-    - [@seisman](https://github.com/seisman)
-
-## 域名信息
-
-- 所有者：
-  - [@seisman][seisman]
-  - [@core-man][core-man] (已共享账户，可使用身份验证器登录，有完整权限)
-- 有效期：2023-03-20
-- 购买自：[GoDaddy][GoDaddy]
+- 发起人：[@seisman][seisman]
 
 ## 社区发展时间线
 
 - 2019-01-27: [@seisman][seisman] 将模块手册和示例整理到中文手册中，废弃 modules 和 examples 子域名
-- 2018-08-13: 建立 QQ 群 **地学 GMT 中文社区 2 群**（群号：791856541）
+- 2018-08-13: 建立 QQ 群“**地学 GMT 中文社区 2 群**”（群号：791856541）
 - 2018-02-18: [@seisman][seisman] 给域名续费五年，价格 ￥675.70
 - 2017-03-10: [@seisman][seisman] 给域名续费一年，价格 ￥135.14
 - 2016-06-13: [@seisman][seisman] 关闭 GMT 问答社区
@@ -35,7 +24,15 @@
 - 2016-03-20: [@seisman][seisman] 将 DNS 服务器转向 [DNSPod][DNSPod] ，并设置 A 记录指向 GitHub
 - 2016-03-20: [@seisman][seisman] 从 [GoDaddy][GoDaddy] 购买社区域名 [gmt-china.org](http://gmt-china.org)，使用期限一年，价格 ￥55.14 RMB
 - 2016-03-20: [@seisman][seisman] 建立组织 [@gmt-china](https://github.com/gmt-china)，建立 `gmt-china.github.io` 作为社区主页
-- 2012-09-14: 建立 QQ 群 **地学 GMT 中文社区 1 群**（群号：218905582）
+- 2012-09-14: 建立 QQ 群“**地学 GMT 中文社区 1 群**”（群号：218905582）
+
+## 域名信息
+
+- 所有者：
+  - [@seisman][seisman]
+  - [@core-man][core-man] (已共享账户，可使用身份验证器登录，有完整权限)
+- 有效期：2023-03-20
+- 购买自：[GoDaddy][GoDaddy]
 
 ## DNS 信息
 
@@ -69,6 +66,13 @@ DNS 记录如下图所示:
 ## 邮箱账户
 
 中文社区目前使用[腾讯企业邮](https://exmail.qq.com/)创建了专属邮箱账户 admin@gmt-china.org，账户所有者 [@seisman][seisman]。
+
+## GitHub 组织
+
+- 组织网址：https://github.com/gmt-china
+- [所有者](https://github.com/orgs/gmt-china/people?query=role%3Aowner)：
+  - [@core-man][core-man]
+  - [@seisman](seisman)
 
 [seisman]: http://github.com/seisman
 [core-man]: http://github.com/core-man
