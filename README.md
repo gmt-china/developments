@@ -1,5 +1,30 @@
 # GMT 中文社区维护指南
 
+## DNS信息
+
+DNS使用 [腾讯云](https://cloud.tencent.com/) 进行解析。
+
+- 账户所有者: [@seisman](seisman)
+
+具体操作：
+
+1. 到 Godaddy 的“我的域名”->“域名设置”下，找到“管理DNS”
+2. 修改域名服务器为 `f1g1ns1.dnspod.net` 和 `f1g1ns2.dnspod.net`
+3. 前往腾讯云，添加域名 `gmt-china.org`
+4. 添加 `A` 记录，指定 GitHub Pages IP 地址 `185.199.108.153`
+5. 增加CNAME 记录，二级域名 `docs.gmt-china.org` 指向 `gmt-china.github.io`
+6. 为使用腾讯企业邮箱，需增加如下记录
+
+   ```
+   @  MX   mxbiz1.qq.com  5
+   @  MX   mxbiz2.qq.com  10
+   ```
+
+生成静态网站并将网站托管到 GitHub Pages 时，还需要注意如下两点：
+
+1. 要有一个空文件 `.nojekyll` 以免 GitHub 使用 Jekyll 对网站再次渲染
+2. 要有一个 `CNAME` 文件，其中包括当前网站的域名，例如 `gmt-china.org`
+
 ## 社区发展时间线
 
 - 2012-09-14: **地学 GMT 中文社区 1 群** QQ 群建立（群号：218905582）
@@ -19,4 +44,3 @@
 
 [seisman]: http://github.com/seisman
 [GoDaddy]: https://www.godaddy.com
-[DNSPod]: https://www.dnspod.cn
