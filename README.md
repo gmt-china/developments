@@ -1,5 +1,18 @@
 # GMT 中文社区维护指南
 
+本项目用于记录 gmt-china 的相关信息。
+
+## 基本信息
+
+- 网站名：GMT 中文社区
+- 主页：https://gmt-china.org
+- GitHub 组织：https://github.com/gmt-china
+
+## 域名信息
+
+- 所有者：[@seisman][seisman]
+- 有效期：2023-03-20
+
 ## 社区发展时间线
 
 - 2012-09-14: **地学 GMT 中文社区 1 群** QQ 群建立（群号：218905582）
