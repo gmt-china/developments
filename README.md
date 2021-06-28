@@ -13,7 +13,7 @@
 
 - 所有者：[@seisman][seisman]
 - 有效期：2023-03-20
-- 购买自：https://www.godaddy.com/
+- 购买自：[GoDaddy][GoDaddy]
 
 ## 社区发展时间线
 
