@@ -20,6 +20,10 @@ DNS 使用[腾讯云](https://cloud.tencent.com/)进行解析。
    @  MX   mxbiz2.qq.com  10
    ```
 
+DNS 记录如下图所示:
+
+[](https://user-images.githubusercontent.com/3974108/123645067-fd33fe80-d7f3-11eb-8aad-05b898981e52.png)
+
 生成静态网站并将网站托管到 GitHub Pages 时，还需要注意如下两点：
 
 1. 要有一个空文件 `.nojekyll` 以免 GitHub 使用 Jekyll 对网站再次渲染
