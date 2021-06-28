@@ -2,7 +2,7 @@
 
 ## 社区发展时间线
 
-- 2012-09-14: *地学 GMT 中文社区 1 群* QQ 群建立（群号：218905582）
+- 2012-09-14: **地学 GMT 中文社区 1 群** QQ 群建立（群号：218905582）
 - 2016-03-20: [@seisman][seisman] 建立组织 [@gmt-china](https://github.com/gmt-china)，建立 [gmt-china.github.io](http://gmt-china.github.io) 作为社区主页
 - 2016-03-20: [@seisman][seisman] 从 [GoDaddy][GoDaddy] 购买社区域名 [gmt-china.org](http://gmt-china.org)，使用期限一年，价格 ￥55.14 RMB
 - 2016-03-20: [@seisman][seisman] 将 DNS 服务器转向 [DNSPod][DNSPod] ，并设置 A 记录指向 GitHub
@@ -14,7 +14,7 @@
 - 2016-06-13: [@seisman][seisman] 关闭 GMT 问答社区
 - 2017-03-10: [@seisman][seisman] 给域名续费一年，价格 ￥135.14
 - 2018-02-18: [@seisman][seisman] 给域名续费五年，价格 ￥675.70
-- 2018-08-13: *地学 GMT 中文社区 2 群* QQ 群建立（群号：791856541）
+- 2018-08-13: **地学 GMT 中文社区 2 群** QQ 群建立（群号：791856541）
 - 2019-01-27: [@seisman][seisman] 将模块手册和示例整理到中文手册中，废弃 modules 和 examples 子域名
 
 [seisman]: http://github.com/seisman
