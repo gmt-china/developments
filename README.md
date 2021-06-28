@@ -1,8 +1,8 @@
 # GMT 中文社区维护指南
 
-## DNS信息
+## DNS 信息
 
-DNS使用 [腾讯云](https://cloud.tencent.com/) 进行解析。
+DNS 使用[腾讯云](https://cloud.tencent.com/)进行解析。
 
 - 账户所有者: [@seisman](seisman)
 
@@ -12,7 +12,7 @@ DNS使用 [腾讯云](https://cloud.tencent.com/) 进行解析。
 2. 修改域名服务器为 `f1g1ns1.dnspod.net` 和 `f1g1ns2.dnspod.net`
 3. 前往腾讯云，添加域名 `gmt-china.org`
 4. 添加 `A` 记录，指定 GitHub Pages IP 地址 `185.199.108.153`
-5. 增加CNAME 记录，二级域名 `docs.gmt-china.org` 指向 `gmt-china.github.io`
+5. 增加 CNAME 记录，二级域名 `docs.gmt-china.org` 指向 `gmt-china.github.io`
 6. 为使用腾讯企业邮箱，需增加如下记录
 
    ```
