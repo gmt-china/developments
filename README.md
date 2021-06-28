@@ -17,6 +17,11 @@
 - 2018-08-13: **地学 GMT 中文社区 2 群** QQ 群建立（群号：791856541）
 - 2019-01-27: [@seisman][seisman] 将模块手册和示例整理到中文手册中，废弃 modules 和 examples 子域名
 
+## 邮箱账户
+
+中文社区目前使用[腾讯企业邮](https://exmail.qq.com/)创建了专属邮箱账户：
+`admin@gmt-china.org`，账户所有者 [@seisman][seisman]。
+
 [seisman]: http://github.com/seisman
 [GoDaddy]: https://www.godaddy.com
 [DNSPod]: https://www.dnspod.cn
